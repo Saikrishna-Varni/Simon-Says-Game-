@@ -38,3 +38,12 @@ body{
 .userflash {
     background-color: green;
 }
+
+.high-score {
+    position: fixed;
+    top: 20px;
+    right: 180px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #333;
+}
